@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Solution
 
 Voici la structure qui a été discutée en classe et sur laquelle vous pouvez vous baser pour la suite du module.
