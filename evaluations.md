@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Evaluations
 
 ## Evaluation I - Théorique
 
-_Introduction_&#x20;
+_Introduction_
 
 Cette épreuve permettra de valider la bonne compréhension des principes théoriques du module ainsi que des aspects pratiques vus dans les laboratoires. Le contenu à maîtriser est celui étudié depuis le début du module, jusqu'au jour de l'épreuve.
 
@@ -31,11 +35,9 @@ Cette épreuve vaut pour 50% de la note finale du module. Les arrondis ainsi que
 
 Le barême habituel suivant sera utilisé : (nb. obtenus / nb. max) \* 5 + 1
 
-
-
 ## Evaluation II - Pratique
 
-_Introduction_&#x20;
+_Introduction_
 
 Cette épreuve permettra de valider la bonne compréhension du projet que nous avons déroulé tout au long du module. L'épreuve est d'ailleurs basée sur le code "solution" qui a été livré 2 semaines avant l'épreuve.
 
@@ -60,6 +62,3 @@ _Pondération et calcul de la note_
 Cette épreuve vaut pour 50% de la note finale du module. Les arrondis ainsi que le calcul de la note finale seront imposés par LAGAPEP.
 
 Le barême habituel suivant sera utilisé : (nb. obtenus / nb. max) \* 5 + 1
-
-
-
