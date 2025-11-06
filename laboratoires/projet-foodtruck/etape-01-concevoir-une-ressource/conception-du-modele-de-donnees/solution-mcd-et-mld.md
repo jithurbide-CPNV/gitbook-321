@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solution - MCD et MLD
 
 ## Introduction
@@ -10,12 +14,12 @@ A cette étape du projet, nous cherchons à modéliser les pizzas présentes sur
 
 ### Explications complémentaires
 
-| Valeur              | Explications                                                                                                                                                                 |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \_\_xxx\_\_\_       | <ul><li>identifiant naturel</li></ul>                                                                                                                                        |
-| _italique_          | <ul><li>attribut optionnel</li></ul>                                                                                                                                         |
-| `Ingredient "0..*"` | <ul><li>une pizza peut avoir aucun ou plusieurs ingrédients (en sachant que la pizza de base est une marguerita ayant de la sauce tomate et de la mozzarrella).</li></ul>    |
-| `Ingredient "0..*"` | <p></p><ul><li>chaque ingrédient peut est présent sur une ou plusieurs pizzas.</li></ul><ul><li>Les identifiants naturels sont mentionnés comme suit "____name___"</li></ul> |
+| Valeur              | Explications                                                                                                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \_\_xxx\_\_\_       | <ul><li>identifiant naturel</li></ul>                                                                                                                                            |
+| _italique_          | <ul><li>attribut optionnel</li></ul>                                                                                                                                             |
+| `Ingredient "0..*"` | <ul><li>une pizza peut avoir aucun ou plusieurs ingrédients (en sachant que la pizza de base est une marguerita ayant de la sauce tomate et de la mozzarrella).</li></ul>        |
+| `Ingredient "0..*"` | <ul><li>chaque ingrédient peut est présent sur une ou plusieurs pizzas.</li><li>Les identifiants naturels sont mentionnés comme suit "_<em><strong>name</strong></em>"</li></ul> |
 
 ## Modèle logique de données
 
@@ -27,4 +31,3 @@ A cette étape du projet, nous cherchons à modéliser les pizzas présentes sur
 * Les contraintes d'unicité sont cohérentes avec le MCD.
 * Les types sont plus techniques, sans être en lien direct avec Node.js.
 * Les associations sont bien devenues des tables.
-

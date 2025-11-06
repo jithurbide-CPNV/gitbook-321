@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solution
 
 ```
@@ -41,7 +45,7 @@ Réflexion : et si on avait un package commun pour les dépendances communes, ma
 
 ### Comment gérer le code ?
 
-Actuellement nous n'avons qu'un seul dépôt pour 2 ressources.&#x20;
+Actuellement nous n'avons qu'un seul dépôt pour 2 ressources.
 
 Réflexion: Et si nous avions 2 dépôts différents, autrement dit 1 dépôt = 1 ressource ?
 
@@ -50,6 +54,3 @@ Réflexion: Et si nous avions 2 dépôts différents, autrement dit 1 dépôt = 
 Actuellement tout est codé sur la même "stack".
 
 Réflexion : Et si nous avions un service en python et un second en java script ?
-
-
-

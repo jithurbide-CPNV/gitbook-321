@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solution - définition des routes
 
 ## Schéma
@@ -11,8 +15,6 @@
 ## Ajouter une nouvelle pizza
 
 <figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Mettre à jour une pizza (son prix, ses ingrédients)
 

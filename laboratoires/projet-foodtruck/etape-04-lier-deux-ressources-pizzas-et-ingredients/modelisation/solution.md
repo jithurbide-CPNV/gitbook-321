@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solution
 
 ## Diagramme de classes
